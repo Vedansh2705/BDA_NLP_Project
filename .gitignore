@@ -1,0 +1,9 @@
+# Raw / large datasets: download from Kaggle, do not commit
+data/*
+!data/.gitkeep
+tsa_data/
+*.csv
+*.tsv
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
